@@ -1,3 +1,7 @@
+以下で同等のRepositoryが公開されているようです。
+
+https://github.com/oktadeveloper/okta-spring-boot-saml-example
+
 以下の情報を参考に作成しました。
 
 https://developer.okta.com/blog/2017/03/16/spring-boot-saml
